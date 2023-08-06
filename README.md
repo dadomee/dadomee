@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
- <h4 align="center">Welcome!👋</h4>
+ <h4 align="center">Welcome!</h4>
   <h4 align="center">Backend Developer</h4>
   <h4 align="center">I try to commit every day as much as possible.💪</h4>
 <br>
@@ -19,7 +19,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">My Github</h3>
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dadomee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
