@@ -19,6 +19,13 @@
 </div>
 <br>
 <br>
+<h3 align="center">my Velog</h3>
+<div align="center">
+<a href="https://velog.io/@0022100">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+</div>
+<br>
+<br>
 <h3 align="center">My Github</h3>
 <div align="center">
 
