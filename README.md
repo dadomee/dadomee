@@ -10,7 +10,7 @@
  <div style="display:flex; flex-direction:row;">
 <a href="https://velog.io/@0022100">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<a href="dasomi0021@gamil.com">
+<a href="dasomi0021@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </div>
 <h4>📧dasomi0021@gmail.com</h4>
